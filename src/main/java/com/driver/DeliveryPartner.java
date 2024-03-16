@@ -22,7 +22,7 @@ public class DeliveryPartner {
         this.numberOfOrders = numberOfOrders;
     }
 
-    public void increatement() {
+    public void incrementOrderCount() {
         numberOfOrders++;
     }
 }
